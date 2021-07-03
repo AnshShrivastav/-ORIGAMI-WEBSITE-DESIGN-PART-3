@@ -1,0 +1,28 @@
+.grid img{
+    border:2px solid black;
+}
+
+.origami {
+    border-radius: 20px;
+    background-color: white;
+
+    width:310px;
+    font-family:fantasy;
+}
+
+.bodyimg{
+    background-color:#e6d755;
+    
+    
+
+}
+
+
+
+.origami:hover{ opacity: 25;}
+
+.footer{
+    background-color:#102521;
+    display: flex;
+    justify-content: flex-end;
+}
